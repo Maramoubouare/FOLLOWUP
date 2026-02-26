@@ -147,9 +147,6 @@ followup-backend-complet/
 └── README.md
 ```
 
-## 🎯 Pour le Frontend
-
-Ce backend expose une API REST complète pour votre frontend React/Vue/Angular.
 
 **Exemple d'utilisation :**
 
