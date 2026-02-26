@@ -1,0 +1,1 @@
+{"name":"followup-backend-complet","version":"1.0.0","main":"src/server.js","scripts":{"start":"node src/server.js","dev":"nodemon src/server.js"},"dependencies":{"express":"^4.18.2","mysql2":"^3.6.5","dotenv":"^16.3.1","joi":"^17.11.0","winston":"^3.11.0","helmet":"^7.1.0","cors":"^2.8.5","swagger-ui-express":"^5.0.0"},"devDependencies":{"nodemon":"^3.0.2"}}

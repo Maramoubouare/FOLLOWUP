@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Ensure Mui overrides are set correctly against base classes */
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', 'Cairo', sans-serif;
+}
